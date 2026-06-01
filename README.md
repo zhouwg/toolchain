@@ -9,4 +9,5 @@ The official Qualcomm's Hexagon SDK tech docs can be found at: https://docs.qual
 # Contents in this repo
 
 1.minimal-hexagon-sdk-6.2.0.1-2025.xz: a customized/tailored Hexagon SDK for jz's ggml-hexagon, created from Qualcomm's official Hexagon SDK 6.2.0.1, size of this file is about 516M. the purpose of this file is to simplify workflow of build jz's ggml-hexagon.
+
 2.minimal-hexagon-sdk-6.2.0.1.xz: a customized/tailored Hexagon SDK for official ggml-hexagon, created from Qualcomm's official Hexagon SDK 6.2.0.1, size of this file is about 523M. the purpose of this file is to simplify workflow of build official ggml-hexagon.
